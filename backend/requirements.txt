@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+psycopg[binary]
+pydantic-settings
+geoalchemy2
+alembic
+pytest
+httpx
+python-dotenv
