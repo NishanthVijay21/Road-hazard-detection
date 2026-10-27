@@ -1,0 +1,418 @@
+[
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.534,
+    "bbox": [
+      1147,
+      667,
+      1602,
+      1011
+    ],
+    "image_path": "hazard_001.jpg",
+    "timestamp": "2026-10-26T10:12:00.266933",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.81,
+    "bbox": [
+      727,
+      739,
+      936,
+      873
+    ],
+    "image_path": "hazard_002.jpg",
+    "timestamp": "2026-10-26T10:12:09.876533",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.592,
+    "bbox": [
+      1101,
+      602,
+      1451,
+      780
+    ],
+    "image_path": "hazard_003.jpg",
+    "timestamp": "2026-10-26T10:12:12.145467",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.634,
+    "bbox": [
+      1450,
+      870,
+      1950,
+      1044
+    ],
+    "image_path": "hazard_004.jpg",
+    "timestamp": "2026-10-26T10:12:17.484133",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.792,
+    "bbox": [
+      2095,
+      1096,
+      2562,
+      1398
+    ],
+    "image_path": "hazard_005.jpg",
+    "timestamp": "2026-10-26T10:12:19.319300",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "longitudinal_crack",
+    "confidence": 0.802,
+    "bbox": [
+      1466,
+      764,
+      1654,
+      1011
+    ],
+    "image_path": "hazard_006.jpg",
+    "timestamp": "2026-10-26T10:12:20.987633",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "transverse_crack",
+    "confidence": 0.573,
+    "bbox": [
+      2451,
+      995,
+      2549,
+      1059
+    ],
+    "image_path": "hazard_007.jpg",
+    "timestamp": "2026-10-26T10:12:26.993633",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "transverse_crack",
+    "confidence": 0.592,
+    "bbox": [
+      994,
+      1271,
+      1824,
+      1409
+    ],
+    "image_path": "hazard_008.jpg",
+    "timestamp": "2026-10-26T10:12:29.095733",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.63,
+    "bbox": [
+      1328,
+      413,
+      1654,
+      651
+    ],
+    "image_path": "hazard_009.jpg",
+    "timestamp": "2026-10-26T10:12:34.134100",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.607,
+    "bbox": [
+      701,
+      986,
+      1129,
+      1430
+    ],
+    "image_path": "hazard_010.jpg",
+    "timestamp": "2026-10-26T10:12:35.068367",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.496,
+    "bbox": [
+      807,
+      780,
+      1279,
+      1216
+    ],
+    "image_path": "hazard_011.jpg",
+    "timestamp": "2026-10-26T10:12:36.002633",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.616,
+    "bbox": [
+      195,
+      1083,
+      560,
+      1434
+    ],
+    "image_path": "hazard_012.jpg",
+    "timestamp": "2026-10-26T10:12:39.205833",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.545,
+    "bbox": [
+      817,
+      387,
+      913,
+      470
+    ],
+    "image_path": "hazard_013.jpg",
+    "timestamp": "2026-10-26T10:12:47.047000",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.534,
+    "bbox": [
+      1300,
+      530,
+      1590,
+      629
+    ],
+    "image_path": "hazard_014.jpg",
+    "timestamp": "2026-10-26T10:12:47.414033",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.487,
+    "bbox": [
+      1381,
+      435,
+      1457,
+      482
+    ],
+    "image_path": "hazard_015.jpg",
+    "timestamp": "2026-10-26T10:12:48.415033",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.667,
+    "bbox": [
+      1569,
+      594,
+      1727,
+      701
+    ],
+    "image_path": "hazard_016.jpg",
+    "timestamp": "2026-10-26T10:12:49.249200",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.623,
+    "bbox": [
+      1172,
+      405,
+      1543,
+      732
+    ],
+    "image_path": "hazard_017.jpg",
+    "timestamp": "2026-10-26T10:12:52.986267",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.789,
+    "bbox": [
+      1003,
+      398,
+      1318,
+      570
+    ],
+    "image_path": "hazard_018.jpg",
+    "timestamp": "2026-10-26T10:12:55.622233",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.696,
+    "bbox": [
+      1083,
+      633,
+      1269,
+      1053
+    ],
+    "image_path": "hazard_019.jpg",
+    "timestamp": "2026-10-26T10:13:01.494767",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.569,
+    "bbox": [
+      1390,
+      669,
+      1599,
+      821
+    ],
+    "image_path": "hazard_020.jpg",
+    "timestamp": "2026-10-26T10:13:02.829433",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.565,
+    "bbox": [
+      1054,
+      693,
+      1210,
+      821
+    ],
+    "image_path": "hazard_021.jpg",
+    "timestamp": "2026-10-26T10:13:03.229833",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.567,
+    "bbox": [
+      1764,
+      626,
+      1922,
+      712
+    ],
+    "image_path": "hazard_022.jpg",
+    "timestamp": "2026-10-26T10:13:03.430033",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.562,
+    "bbox": [
+      1261,
+      578,
+      1423,
+      670
+    ],
+    "image_path": "hazard_023.jpg",
+    "timestamp": "2026-10-26T10:13:03.496767",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.769,
+    "bbox": [
+      862,
+      571,
+      1435,
+      898
+    ],
+    "image_path": "hazard_024.jpg",
+    "timestamp": "2026-10-26T10:13:04.164100",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.628,
+    "bbox": [
+      1412,
+      695,
+      1677,
+      938
+    ],
+    "image_path": "hazard_025.jpg",
+    "timestamp": "2026-10-26T10:13:04.431033",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  },
+  {
+    "hazard_type": "alligator_crack",
+    "confidence": 0.599,
+    "bbox": [
+      993,
+      532,
+      1589,
+      1002
+    ],
+    "image_path": "hazard_026.jpg",
+    "timestamp": "2026-10-26T10:13:05.832433",
+    "latitude": null,
+    "longitude": null,
+    "heading": 87.0,
+    "speed": 20.0
+  }
+]

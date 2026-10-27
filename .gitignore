@@ -1,0 +1,10 @@
+train/
+val/
+test/
+images/
+labels/
+codes/
+runs/
+rdd_subset/
+__pycache__/
+*.pt
